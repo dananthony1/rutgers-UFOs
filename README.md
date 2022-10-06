@@ -13,7 +13,7 @@ the filter criteria for the table are determined by entering values into each of
 * The values entered must be an exact match to the table values for the Javascript to recognize a match to the filter criteria. 
 * Below is a filtered table of the sightings where the State is 'ca', the country is 'us', the date is '1/1/2010' and the shape is 'light'. 
 
-![Filtered Search](/static/images/shapeSearch.png "Filtered Search")
+![Filtered Search](/static/images/shapeSearch2.png "Filtered Search")
 
 ## Summary
 
